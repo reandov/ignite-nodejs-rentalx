@@ -76,12 +76,12 @@
           "**/*.spec.js"
         ]
       }
-    ]
+    ],
+    "prettier/prettier": "error"
   },
   "settings": {
     "import/resolver": {
       "typescript": {}
     }
-  },
-  "prettier/prettier": "error"
+  }
 }
